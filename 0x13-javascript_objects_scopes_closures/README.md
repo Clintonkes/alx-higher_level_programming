@@ -1,0 +1,1 @@
+This directory explains javascript closures and scopes
